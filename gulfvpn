@@ -1,16 +1,16 @@
 {
   "AdsController": {
+    "AdNetwork": "Hybrid",
     "AdInterval": 2,
     "NativeAdRow": 2,
-
     "AdPlacement": {
-      "HuaweiAppId": "114185681",
-      "HuaweiBanner": "testw6vs28auh3",
-      "HuaweiInterstitial": "testb4znbuh3n2",
-      "HuaweiInterstitialHome": "testb4znbuh3n2",
-      "HuaweiReward": "testx9dtjwj8hp",
+      "AdMobAppId": "ca-app-pub-8591445925577413~1416267527",
+      "HuaweiAppId": "113526403",
+      "HuaweiBanner": "i8ew8ycxd6",
+      "HuaweiInterstitial": "q31iwl9j6a",
+      "HuaweiReward": "p7tvv0fo83",
       "HuaweiSplash": "testq6zq98hecj",
-      "HuaweiNative": "testu7m3hc4gvm"
+      "HuaweiNative": "a0zn0oiz07"
     }
   },
 
@@ -48,27 +48,77 @@
     {
       "name": "France",
       "flag_icon": "fr",
-      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/fr.ovpn"
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
     },
     {
       "name": "Italy",
       "flag_icon": "it",
-      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/it.ovpn"
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
     },
     {
       "name": "Spain",
       "flag_icon": "es",
-      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/es.ovpn"
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
     },
     {
       "name": "Netherlands",
       "flag_icon": "nl",
-      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/nl.ovpn"
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "Sweden",
+      "flag_icon": "se",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "Norway",
+      "flag_icon": "no",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "Finland",
+      "flag_icon": "fi",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "Switzerland",
+      "flag_icon": "ch",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "Belgium",
+      "flag_icon": "be",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "Austria",
+      "flag_icon": "at",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "Poland",
+      "flag_icon": "pl",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "Canada",
+      "flag_icon": "ca",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "China",
+      "flag_icon": "cn",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
     },
     {
       "name": "India",
       "flag_icon": "in",
-      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/in.ovpn"
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "Morocco",
+      "flag_icon": "ma",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
     }
   ]
 }
