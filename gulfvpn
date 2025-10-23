@@ -122,7 +122,7 @@
         "vpnName": "Norway",
         "vpnLocked": true,
         "vpnIso": "no",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Zoult/.ovpn/refs/heads/main/Emirates/IPS_77.105.136.29_udp_40268.ovpn"
       },
       {
         "vpnName": "Finland",
