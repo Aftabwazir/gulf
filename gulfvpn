@@ -2,22 +2,55 @@
  
   "AppRedirect": {
     "status": false,
-    "redirectURL": "https://appgallery.huawei.com/app/C114185681"
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.piupiuapps.coloringglitterunicorns"
   },
   
   
-   "AdsController": {
+  
+"AdsController": {
 
-    "AdInterval"          : 1,
+    "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'hws'  , 'yandex'",
 
-    "HuaweiAppId"         : "114185681",
+
+    "BannerNetwork"          : "yandex",
+    "InterstitialNetwork"    : "yandex",
+    "InterstitialNetworkHome": "yandex",
+    "RewardNetwork"          : "yandex",
+    "NativeNetwork"          : "yandex",
     
-    "HuaweiBanner"        : "testw6vs28auh3",
-    "HuaweiInterstitialAd": "testb4znbuh3n2",
-    "HuaweiRewardAd"      : "testx9dtjwj8hp",
-    "HuaweiNativeAd"      : "testy63txaom86",
-    "NativeAdRow"         : 3
+    "AdInterval"          : 2,
+    "NativeAdRow"         : 2,
 
+    "AdPlacement": {
+
+      "AdMobBanner"           : "ca-app-pub-3940256099942544/6300978111",
+      "AdMobInterstitial"     : "ca-app-pub-3940256099942544/1033173712",
+      "AdMobInterstitialHome" : "ca-app-pub-3940256099942544/1033173712",
+      "AdMobReward"           : "ca-app-pub-3940256099942544/5224354917",
+      "AdMobNative"           : "ca-app-pub-3940256099942544/2247696110",
+      
+      
+      "ApplovinKey"             : "Cf8fK1Z_-vR6uGTg-O5_dLSX72cQSPDOlBS2Z7ozmMIfadTQWfl8FWzPoC5MA6F1iV-cTSI3uDEgC2nl9MxG6_",
+      "ApplovinBanner"          : "da17eff31ae69f15",
+      "ApplovinInterstitial"    : "7b2c55378529f5d3",
+      "ApplovinInterstitialHome": "7b2c55378529f5d3",
+      "ApplovinReward"          : "98f6a586ed642919",
+      "ApplovinNative"          : "98f6a586ed642919",
+
+      "HuaweiAppId"           : "",
+      "HuaweiBanner"          : "c8qkfockzv",
+      "HuaweiInterstitial"    : "o156958pyb",
+      "HuaweiInterstitialHome": "o156958pyb",
+      "HuaweiReward"          : "testx9dtjwj8hp",
+      "HuaweiNative"          : "testy63txaom86",
+      
+      "YandexBanner"          : "R-M-16092397-1",
+      "YandexInterstitial"    : "R-M-16092397-2",
+      "YandexInterstitialHome": "R-M-16092397-2",
+      "YandexReward"          : "R-M-16092397-3",
+      "YandexNative"          : "R-M-16092397-4"
+
+    }
   },
 
   "VpnController": {
