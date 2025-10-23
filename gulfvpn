@@ -1,12 +1,7 @@
 {
-  "AppRedirect": {
-    "status": false,
-    "redirectURL": "https://play.google.com/store/apps/details?id=com.piupiuapps.coloringglitterunicorns"
-  },
-
   "AdsController": {
     "AdNetwork": "Hybrid",
-    "AdInterval": 1,
+    "AdInterval": 2,
     "NativeAdRow": 2,
 
     "AdPlacement": {
@@ -79,54 +74,4 @@
       },
       {
         "name": "Norway",
-        "flag_icon": "no",
-        "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "name": "Finland",
-        "flag_icon": "fi",
-        "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "name": "Switzerland",
-        "flag_icon": "ch",
-        "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "name": "Belgium",
-        "flag_icon": "be",
-        "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "name": "Austria",
-        "flag_icon": "at",
-        "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "name": "Poland",
-        "flag_icon": "pl",
-        "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "name": "Canada",
-        "flag_icon": "ca",
-        "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "name": "China",
-        "flag_icon": "cn",
-        "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "name": "India",
-        "flag_icon": "in",
-        "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "name": "Morocco",
-        "flag_icon": "ma",
-        "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      }
-    ]
-  }
-}
+        "flag
