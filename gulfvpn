@@ -19,7 +19,7 @@
     "NativeNetwork"          : "yandex",
     
     "AdInterval"          : 2,
-    "NativeAdRow"         : 2,
+    "NativeAdRow"         : 3,
 
     "AdPlacement": {
 
@@ -43,7 +43,8 @@
       "HuaweiInterstitialHome": "o156958pyb",
       "HuaweiReward"          : "testx9dtjwj8hp",
       "HuaweiNative"          : "testy63txaom86",
-      
+
+      "YandexAppId"           :"17563928",
       "YandexBanner"          : "R-M-17563928-1",
       "YandexInterstitial"    : "R-M-17563928-3",
       "YandexInterstitialHome": "R-M-17563928-3",
