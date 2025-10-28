@@ -44,12 +44,12 @@
       "HuaweiReward"          : "testx9dtjwj8hp",
       "HuaweiNative"          : "testy63txaom86",
 
-      "YandexAppId"           :"17563928",
-      "YandexBanner"          : "R-M-17563928-16",
-      "YandexInterstitial"    : "R-M-17563928-34",
-      "YandexInterstitialHome": "R-M-17563928-36",
-      "YandexReward"          : "R-M-17563928-47",
-      "YandexNative"          : "R-M-17563928-28"
+      "YandexAppId"           :"",
+      "YandexBanner"          : "",
+      "YandexInterstitial"    : "",
+      "YandexInterstitialHome": "",
+      "YandexReward"          : "",
+      "YandexNative"          : ""
 
     }
   },
