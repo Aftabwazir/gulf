@@ -12,14 +12,14 @@
     "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'hws'  , 'yandex'",
 
 
-    "BannerNetwork"          : ",
-    "InterstitialNetwork"    : "",
-    "InterstitialNetworkHome": "",
-    "RewardNetwork"          : "",
-    "NativeNetwork"          : "",
+    "BannerNetwork"          : "yandex",
+    "InterstitialNetwork"    : "yandex",
+    "InterstitialNetworkHome": "yandex",
+    "RewardNetwork"          : "yandex",
+    "NativeNetwork"          : "yandex",
     
     "AdInterval"          : 3,
-    "NativeAdRow"         : 5,
+    "NativeAdRow"         : 4,
 
     "AdPlacement": {
 
@@ -45,11 +45,11 @@
       "HuaweiNative"          : "testy63txaom86",
 
       "YandexAppId"           :"",
-      "YandexBanner"          : "",
-      "YandexInterstitial"    : "",
-      "YandexInterstitialHome": "",
-      "YandexReward"          : "",
-      "YandexNative"          : ""
+      "YandexBanner"          : "R-M-35637-2",
+      "YandexInterstitial"    : "R-M-35637-1",
+      "YandexInterstitialHome": "R-M-35637-1",
+      "YandexReward"          : "R-M-35637-4",
+      "YandexNative"          : "R-M-35637-3"
 
     }
   },
