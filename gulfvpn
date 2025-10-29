@@ -16,10 +16,10 @@
     "InterstitialNetwork"    : "yandex",
     "InterstitialNetworkHome": "yandex",
     "RewardNetwork"          : "yandex",
-    "NativeNetwork"          : "",
+    "NativeNetwork"          : "yandex",
     
     "AdInterval"          : 3,
-    "NativeAdRow"         : 10,
+    "NativeAdRow"         : 6,
 
     "AdPlacement": {
 
