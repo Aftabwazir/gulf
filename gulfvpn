@@ -19,7 +19,7 @@
     "NativeNetwork"          : "",
     
     "AdInterval"          : 3,
-    "NativeAdRow"         : 4,
+    "NativeAdRow"         : 10,
 
     "AdPlacement": {
 
