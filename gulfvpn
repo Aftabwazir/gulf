@@ -18,7 +18,7 @@
     "RewardNetwork"          : "yandex",
     "NativeNetwork"          : "yandex",
     
-    "AdInterval"          : 3,
+    "AdInterval"          : 2,
     "NativeAdRow"         : 6,
 
     "AdPlacement": {
@@ -44,12 +44,12 @@
       "HuaweiReward"          : "testx9dtjwj8hp",
       "HuaweiNative"          : "testy63txaom86",
 
-      "YandexAppId"           :"",
-      "YandexBanner"          : "R-M-35637-2",
-      "YandexInterstitial"    : "R-M-35637-1",
-      "YandexInterstitialHome": "R-M-35637-1",
-      "YandexReward"          : "R-M-35637-4",
-      "YandexNative"          : ""
+      "YandexAppId"           :"17563928",
+      "YandexBanner"          : "R-M-17563928-1",
+      "YandexInterstitial"    : "R-M-17563928-3",
+      "YandexInterstitialHome": "R-M-17563928-3",
+      "YandexReward"          : "R-M-17563928-4",
+      "YandexNative"          : "R-M-17563928-2"
 
     }
   },
@@ -60,7 +60,7 @@
     "VpnList": [
       {
         "vpnName": "Emirates",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "ae",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/emirates.ovpn"
       },
@@ -72,13 +72,13 @@
       },
       {
         "vpnName": "Saudi Arabia",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "sa",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/saudia.ovpn"
       },
       {
         "vpnName": "United States",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "us",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/us.ovpn"
       },
@@ -108,7 +108,7 @@
       },
       {
         "vpnName": "Netherlands",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "nl",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
       },
@@ -168,7 +168,7 @@
       },
       {
         "vpnName": "India",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "in",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
       },
