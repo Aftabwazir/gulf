@@ -94,7 +94,7 @@
         "vpnIso": "fr",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
       },
-      {
+ {
   "vpnName": "Russia",
   "vpnLocked": false,
   "vpnIso": "ru",
