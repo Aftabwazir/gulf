@@ -98,7 +98,7 @@
   "vpnName": "Russia",
   "vpnLocked": false,
   "vpnIso": "ru",
-  "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/ruvpn/refs/heads/main/russia.ovpn",
+  "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/us.ovpn",
 },
       {
         "vpnName": "Spain",
