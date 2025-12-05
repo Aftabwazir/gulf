@@ -57,6 +57,8 @@
   "VpnController": {
     "VpnUserName": "7yJXLkNRHvH4DO2B",
     "VpnPassword": "cXLqmfeq6v2glE0MQJi9ljIlRm5FY0vF",
+  "vpnUsername": "vpn",
+  "vpnPassword": "vpn"
     "VpnList": [
       {
         "vpnName": "Emirates",
@@ -99,8 +101,6 @@
   "vpnLocked": false,
   "vpnIso": "ru",
   "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/ruvpn/refs/heads/main/russia.ovpn",
-  "vpnUsername": "vpn",
-  "vpnPassword": "vpn"
 },
       {
         "vpnName": "Spain",
