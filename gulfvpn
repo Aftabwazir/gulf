@@ -57,8 +57,6 @@
   "VpnController": {
     "VpnUserName": "7yJXLkNRHvH4DO2B",
     "VpnPassword": "cXLqmfeq6v2glE0MQJi9ljIlRm5FY0vF",
-  "vpnUsername": "vpn",
-  "vpnPassword": "vpn"
     "VpnList": [
       {
         "vpnName": "Emirates",
