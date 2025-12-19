@@ -12,11 +12,11 @@
     "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'hws'  , 'yandex'",
 
 
-    "BannerNetwork"          : "admob",
-    "InterstitialNetwork"    : "admob",
-    "InterstitialNetworkHome": "admob",
-    "RewardNetwork"          : "admob",
-    "NativeNetwork"          : "admob",
+    "BannerNetwork"          : "yandex",
+    "InterstitialNetwork"    : "yandex",
+    "InterstitialNetworkHome": "yandex",
+    "RewardNetwork"          : "yandex",
+    "NativeNetwork"          : "yandex",
     
     "AdInterval"          : 3,
     "NativeAdRow"         : 6,
@@ -27,7 +27,7 @@
       "AdMobInterstitial"     : "ca-app-pub-8591445925577413/9868200434",
       "AdMobInterstitialHome" : "ca-app-pub-8591445925577413/9868200434",
       "AdMobReward"           : "ca-app-pub-8591445925577413/7082270901",
-      "AdMobNative"           : "ca-app-pub-8591445925577413/8555118769",
+      "AdMobNative"           : "",
       
       
       "ApplovinKey"             : "Cf8fK1Z_-vR6uGTg-O5_dLSX72cQSPDOlBS2Z7ozmMIfadTQWfl8FWzPoC5MA6F1iV-cTSI3uDEgC2nl9MxG6_",
